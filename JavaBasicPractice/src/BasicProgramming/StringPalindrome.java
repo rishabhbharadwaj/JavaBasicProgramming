@@ -2,7 +2,7 @@ package BasicProgramming;
 
 import java.util.Scanner;
 
-public class Palindrome {
+public class StringPalindrome {
 
 	@SuppressWarnings("resource")
 	public static void main(String[] args) {
