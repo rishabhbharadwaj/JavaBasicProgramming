@@ -24,5 +24,4 @@ public class ArrayRotation {
 			System.out.print(arr[i]+" ");
 		}
 	}
-	
 }
